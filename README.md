@@ -1,4 +1,5 @@
 ### Hi, I'm Michael 👋
+<img align='right' src="giphy.gif" width="230">
 
 #### I'm an incoming Software Development Engineer in Test (SDET) at [Workday](https://www.workday.com/) in Dublin, Ireland. 🇮🇪
 
