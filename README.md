@@ -15,4 +15,4 @@
 - ⚙️ Experience: `Python`, `Bash`, `HTML`, `CSS`, `Javascript`, `Django`, `Selenium WebDriver`, `AWS`.
 - 💬 Message me about: **software development**, **software quality** and **cloud computing**.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/michael-walsh-it/).
-- ⚡️ Fun fact: I built my first desktop PC when I was 14 years old.
+- ⚡️ Fun fact: I built my first desktop gaming PC when I was 14 years old.
