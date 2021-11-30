@@ -18,4 +18,5 @@
 - ⚡️ Fun fact: I built my first desktop gaming PC when I was 14 years old.
 
 <br>
+<h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{walsm232}/count.svg" alt="walsm232 :: Visitor's Count" /></p>
