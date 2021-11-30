@@ -17,8 +17,7 @@
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/michael-walsh-it/).
 - ⚡️ Fun fact: I built my first desktop gaming PC when I was 14 years old.
 
-#### 📈 GitHub Stats
-- - - -
+##### GITHUB STATS
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=walsm232&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walsm232&layout=compact)](https://github.com/walsm232/github-readme-stats)
 
