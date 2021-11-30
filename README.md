@@ -16,3 +16,5 @@
 - 💬 Message me about: **software development**, **software quality** and **cloud computing**.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/michael-walsh-it/).
 - ⚡️ Fun fact: I built my first desktop gaming PC when I was 14 years old.
+
+<p align="center"><img src="https://profile-counter.glitch.me/{walsm232}/count.svg" alt="walsm232 :: Visitor's Count" /></p>
