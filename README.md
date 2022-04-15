@@ -11,8 +11,7 @@
 
 ##### BIO
 
-- 🎓  Education: I graduated from Dublin City University with a Bachelor of Science degree in Enterprise Computing.
-- ⚙️  Experience: `Python`, `Bash`, `HTML`, `CSS`, `Javascript`, `Django`, `Selenium WebDriver`, `AWS`.
+- 🎓  Education: I graduated from Dublin City University with a First Class Honours (1.1) Bachelor of Science degree in Enterprise Computing.
 - 💬  Message me about: **software development**, **software quality** and **cloud computing**.
 - 📫  Connect with me: [LinkedIn](https://www.linkedin.com/in/michael-walsh-it/).
 - ⚡️  Fun fact: I built my first desktop gaming PC when I was 14 years old.
