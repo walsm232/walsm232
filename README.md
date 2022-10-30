@@ -1,7 +1,7 @@
 ### Hi, I'm Michael 👋
 <img align='right' src="giphy.gif" width="220">
 
-#### I'm a Software Development Engineer in Test (SDET) at [Workday](https://www.workday.com/) in Dublin, Ireland. 🇮🇪
+#### I'm a Software Development Engineer (SDE) at [Workday](https://www.workday.com/) in Dublin, Ireland. 🇮🇪
 
 ##### CURRENT FOCUS
 
