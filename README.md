@@ -7,7 +7,7 @@
 
 - 🌐  Working on my <b> [Web Portfolio](https://www.michaelwalsh-portfolio.com/). </b>
 - 💻  Learning new development tools & technologies <b> (React, Kubernetes, Istio, ArgoCD, etc.). </b>
-- 📖  Reading lots of books <b>(Currently reading 'The Pragmatic Programmer' by Andrew Hunt and David Thomas</b>).
+- 📖  Reading lots of books (Currently reading <b> 'Certified Kubernetes Administrator (CKA) Study Guide' </b> by Benjamin Muschko).
 
 ##### BIO
 
