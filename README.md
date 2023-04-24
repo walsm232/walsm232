@@ -6,7 +6,7 @@
 ##### CURRENT FOCUS
 
 - 🌐  Working on my <b> [Web Portfolio](https://www.michaelwalsh-portfolio.com/). </b>
-- 💻  Learning new development tools & technologies <b> (React, MongoDB, Docker, Jenkins, and Kubernetes). </b>
+- 💻  Learning new development tools & technologies <b> (React, Kubernetes, Istio, ArgoCD, etc.). </b>
 - 📖  Reading lots of books <b>(Currently reading 'The Pragmatic Programmer' by Andrew Hunt and David Thomas</b>).
 
 ##### BIO
