@@ -19,9 +19,6 @@
 <br>
 
 ##### GITHUB STATS
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=walsm232&show_icons=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walsm232&layout=compact)](https://github.com/walsm232/github-readme-stats)
-
 <br>
 <h4 align="center">Visitor Count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{walsm232}/count.svg" alt="walsm232 :: Visitor's Count" /></p>
