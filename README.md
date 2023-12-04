@@ -5,7 +5,7 @@
 
 ##### CURRENT FOCUS
 
-- 🌐  Working on my <b> [Web Portfolio](https://www.michaelwalsh-portfolio.com/). </b>
+- 🌐  Working on my <b> [Web Portfolio](https://www.michael-walsh.dev/). </b>
 - 💻  Advancing my knowledge in my day-to-day skills <b> (Go, Python, Argo, Kubernetes etc.). </b>
 - 📖  Reading lots of books (Currently reading <b> 'Certified Kubernetes Administrator (CKA) Study Guide' </b> by Benjamin Muschko).
 
