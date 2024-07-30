@@ -6,14 +6,14 @@
 ##### CURRENT FOCUS
 
 - 🌐  Working on my <b> [Web Portfolio](https://www.michael-walsh.dev/). </b>
-- 💻  Advancing my knowledge in my day-to-day skills <b> (Go, Python, Argo, Kubernetes etc.). </b>
-- 📖  Reading lots of books (Currently reading <b> 'Certified Kubernetes Administrator (CKA) Study Guide' </b> by Benjamin Muschko).
+- 💻  Advancing my knowledge in my day-to-day skills <b> (Go, Python, Argo suite, Kubernetes etc.). </b>
+- 📖  Reading lots of books.
 
 ##### BIO
 
 - 🎓  Education: I graduated from Dublin City University with a First Class Honours (1.1) Bachelor of Science degree in Enterprise Computing. I'm currently studying a Postgraduate Diploma in Cloud Computing and Software Development at University of Galway where I am maintaining a First Class Honours (1.1) grade.
 - 💬  Message me about: **software development**, **DevOps** and **cloud computing**.
-- 📫  Connect with me: [LinkedIn](https://www.linkedin.com/in/michael-walsh-it/).
+- 📫  Connect with me: [LinkedIn](https://www.linkedin.com/in/michael-walsh-dev/).
 - ⚡️  Fun fact: I built my first desktop gaming PC when I was 14 years old.
 
 <br>
