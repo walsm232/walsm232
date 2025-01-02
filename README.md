@@ -40,6 +40,7 @@
 <p align="left">
     <a href="https://www.vaultproject.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/> </a>
     <a href="https://falco.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/falco/falco-icon.svg" alt="falco" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 <p align="left">
     <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
