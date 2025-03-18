@@ -11,7 +11,9 @@
 
 ##### BIO
 
-- 🎓  Education: I graduated from Dublin City University with a First Class Honours (1.1) Bachelor of Science degree in Enterprise Computing and from University of Galway with a First Class Honours (1.1) Postgraduate Diploma in Cloud Computing and Software Development.
+- 🎓  Education:
+  - Bachelor of Science (B.Sc.) in Enterprise Computing at Dublin City University - First Class Honours (1.1).
+  - Postgraduate Diploma (Pg.Dip.) in Cloud Computing and Software Development at University of Galway - First Class Honours (1.1).
 - 💬  Message me about: **software development**, **DevOps** and **cloud computing**.
 - 📫  Connect with me: [LinkedIn](https://www.linkedin.com/in/michael-walsh-dev/).
 - ⚡️  Fun fact: I built my first desktop gaming PC when I was 14 years old.
